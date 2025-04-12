@@ -1,0 +1,7 @@
+streamlit
+crewai
+langchain
+langchain-openai
+langchain-anthropic
+langchain-mistralai
+python-dotenv
